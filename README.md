@@ -11,4 +11,26 @@ kind of database is being used you'll have different syntax and semantics in
 according to each management systems, such as *PostgreSQL*, *MySQL*, and so
 forth, although they all are based upon the same origin—the SQL language.
 
+### Terminologies
+
+- Tables: 
+
+- Attributes:
+
+- Tuples (rows):
+
+- Degree: number of attributes of a relation
+
+- Columns: 
+
+----
+## Relational databases
+
+
+----
+## Queries
+
+- Data Definition
+
+- Data Manipulation
 
