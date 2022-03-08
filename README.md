@@ -19,6 +19,8 @@ forth, although they all are based upon the same origin—the SQL language.
 
 - Tuples (rows):
 
+- Cardinality:
+
 - Degree: number of attributes of a relation
 
 - Columns: 
@@ -34,3 +36,5 @@ forth, although they all are based upon the same origin—the SQL language.
 
 - Data Manipulation
 
+----
+## The administrator
